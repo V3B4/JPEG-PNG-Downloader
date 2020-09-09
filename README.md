@@ -4,3 +4,10 @@ HTML上からJPEGとPNGの画像を抽出するツール
 
 昔に書いたのでひっどいコードだけど動いているからヨシ！👈😺  
 
+## Usage
+- Python環境下での起動  
+`$ python3 gui.py`
+
+- Pyinstallerでexe化  
+事前にgui.specを開きpathexに絶対パスを記述  
+`$ pyinstaller gui.spec --onefile`  
