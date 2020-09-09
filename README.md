@@ -4,6 +4,10 @@ HTML上からJPEGとPNGの画像を抽出するツール
 
 昔に書いたのでひっどいコードだけど動いているからヨシ！👈😺  
 
+## Requirements  
+- PyQt5
+- Beautiful Soup
+
 ## Usage
 - Python環境下での起動  
 `$ python3 gui.py`
