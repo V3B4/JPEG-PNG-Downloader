@@ -6,6 +6,7 @@ HTML上からJPEGとPNGの画像を抽出するツール
 
 ## Requirements  
 - PyQt5
+- lxml
 - Beautiful Soup
 
 ## Usage
